@@ -2,7 +2,7 @@
 
 **Name:** Veera Dharan Sri Datta · **Registration number:** 252U1R7096 · **Section:** CSE-FSD-2B
 
-**Live link:** Not deployed. The server was not deployed to Render/Railway/Cloud IDE; it was run and tested locally (screenshots below).
+**Live link:** https://backend-development-fundamentals-l1.onrender.com
 
 ## How to run
 
