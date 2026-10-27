@@ -1,7 +1,7 @@
 # Backend Veera Dharan
 Lab 1: Node.js and Express Server
 Student Details
-Name: Varun Kumar
+Name: Veer
 Section: CSE FSD 2B
 Course: Backend Development Fundamentals
 Lab Number: 01

@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: backend-abhyas
+    name: backend_Dharan
     runtime: node
     plan: free
     rootDir: lab-01

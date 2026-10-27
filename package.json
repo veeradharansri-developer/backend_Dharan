@@ -1,7 +1,7 @@
 {
-  "name": "backend_abhyas",
+  "name": "backend_Dharan",
   "version": "1.0.0",
-  "description": "Backend Abhyas - Node.js and Express Labs",
+  "description": "Backend Dharan - Node.js and Express Labs",
   "main": "lab-01/server.js",
   "scripts": {
     "start": "node lab-01/server.js",
